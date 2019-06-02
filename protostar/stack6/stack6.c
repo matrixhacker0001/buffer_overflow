@@ -24,8 +24,5 @@ void getpath()
 
 int main(int argc, char **argv)
 {
-    get path();
-
-
-
+    getpath();
 }
