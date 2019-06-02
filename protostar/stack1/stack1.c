@@ -1,3 +1,5 @@
+/* buffer overflow attack to override modified var with specified address */
+
 #include <stdlib.h>
 #include <unistd.h>
 #include <stdio.h>
